@@ -1,4 +1,4 @@
-# 
+# rare dexscreener sniper bot | MEV-detection + auto-sell offers the most advanced dexscreener sniper bot, with MEV-detection and auto-sell. Ideal for professional MEV and sniper
 
 
 
